@@ -1,4 +1,4 @@
-# all software sucks, but some suck more than others.
+# all software sucks, but some do more than others.
 
 <!--
 **kyx0r/kyx0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
